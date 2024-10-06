@@ -1,0 +1,43 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "Lucas",
+      "tarefas": [
+        {
+          "descricao": "Estudar para a prova",
+          "prioridade": "alta",
+          "status": "pendente"
+        },
+        {
+          "descricao": "Ler artigos de produtividade",
+          "prioridade": "média",
+          "status": "concluída"
+        }
+      ],
+      "recompensas": [
+        {
+          "descricao": "Concluiu 3 tarefas consecutivas",
+          "pontos": 50
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nome": "Camila",
+      "tarefas": [
+        {
+          "descricao": "Assistir aula online",
+          "prioridade": "baixa",
+          "status": "pendente"
+        },
+        {
+          "descricao": "Revisar artigos",
+          "prioridade": "alta",
+          "status": "pendente"
+        }
+      ],
+      "recompensas": []
+    }
+  ]
+}

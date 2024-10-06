@@ -1,0 +1,14 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "Lucas",
+      "filaDeNotificacoes": ["Tarefa pendente", "70% das metas diárias completadas"]
+    },
+    {
+      "id": 2,
+      "nome": "Camila",
+      "filaDeNotificacoes": ["Tarefa concluída"]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "Lucas",
+      "calendarioDeTarefas": [
+        {
+          "dia": "Segunda-feira",
+          "tarefas": ["Estudar para prova", "Ler artigos"]
+        },
+        {
+          "dia": "Quarta-feira",
+          "tarefas": ["Fazer resumo", null]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nome": "Camila",
+      "calendarioDeTarefas": [
+        {
+          "dia": "Terça-feira",
+          "tarefas": [null, "Assistir aula"]
+        },
+        {
+          "dia": "Quinta-feira",
+          "tarefas": ["Estudar jurisprudência", "Revisar artigos"]
+        }
+      ]
+    }
+  ]
+}
