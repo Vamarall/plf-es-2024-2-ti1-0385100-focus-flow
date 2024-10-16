@@ -1,4 +1,5 @@
 Contexto do Projeto
+
 Introdução: O "FocusFlow" é um software projetado para auxiliar estudantes a manterem o foco e
 a produtividade em seus estudos. Em um mundo repleto de distrações, muitas vezes é difícil para os
 alunos se concentrarem nas tarefas acadêmicas e aproveitarem ao máximo seu tempo de estudo.
